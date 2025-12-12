@@ -2,8 +2,8 @@
 This project implements a deep neural network regression model to predict California housing prices based on the 1990 census data
 """
 California Housing Price Prediction with Neural Networks - Google Colab Version
-Author: [Your Name]
-Date: December 2024
+Author: Dodwa Faruku
+Date: December 2025
 
 This script implements a deep learning regression model to predict
 California housing prices based on the 1990 census data.
